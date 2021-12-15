@@ -1,8 +1,6 @@
-.git
-node/
-node_modules/
-.gradle
-.idea
-build/
-out/
-*.hprof
+client/*
+docs/*
+src/*
+helm/*
+gradle/*
+gradlew*
